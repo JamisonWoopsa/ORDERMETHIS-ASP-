@@ -1,0 +1,5 @@
+<SCRIPT LANGUAGE="VBScript" RUNAT="Server">
+Sub Application_OnStart
+ Application("order_number") = 0
+End Sub
+</script>

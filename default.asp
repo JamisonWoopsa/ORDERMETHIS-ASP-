@@ -1,0 +1,5 @@
+
+<%
+	response.Redirect "login.asp"
+
+%>
